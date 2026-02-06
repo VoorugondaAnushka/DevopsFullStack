@@ -1,0 +1,17 @@
+{
+  "id": 1,
+  "name": "Anushka",
+  "username": "anushka123",
+  "email": "anushka@gmail.com",
+  "address": {
+    "street": "Teachers Colony",
+    "city": "Hanamkonda",
+    "zipcode": "506001"
+  },
+  "phone": "9675678072",
+  "website": "SRU.org",
+  "company": {
+    "name": "Wipro",
+    "catchPhrase": "Multi-layered client-server neural-net"
+  }
+}
